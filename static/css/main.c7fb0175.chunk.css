@@ -1,0 +1,2 @@
+.slide{transition:opacity .5s;opacity:1}.slide.hide{opacity:0;pointer-events:none}.someslide{transition:opacity .5s;opacity:1}.but1,.but2{width:168px;height:730px;z-index:0;position:absolute;top:0;opacity:0}.but2{left:168px}.outer{position:relative}.nullpos1{z-index:2;position:absolute;top:0}.nullpos2{position:relative}
+/*# sourceMappingURL=main.c7fb0175.chunk.css.map */
